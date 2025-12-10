@@ -27,10 +27,11 @@
 
 ---
 
-## 🌱 Actualmente aprendiendo
+## 🌱 Aprendiendo y haciendo actualmente
 
-- Arquitectura Clean
-- Optimizacion y Seguridad
+- Proyecto de galeria para marcas de ropa
+- Aprendiendo Arquitectura Clean
+- Aprendiendo Optimizacion y Seguridad en Backend
 
 ---
 
