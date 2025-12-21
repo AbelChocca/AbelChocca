@@ -1,12 +1,12 @@
-# 😎 Hola, soy Abel Chocca
+# 😎 Hello, I'm Abel Chocca
 
 🚀 Backend & Fullstack Developer | FastAPI | Nextjs | Docker |
 
 ---
 
-## 🛠️ Tecnologías y herramientas
+## 🛠️ Technologies and Frameworks
 
-### Lenguajes
+### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -27,23 +27,22 @@
 
 ---
 
-## 🌱 Aprendiendo y haciendo actualmente
+## 🌱 Currently learning and doing
 
-- Proyecto de galeria para marcas de ropa
-- Aprendiendo Arquitectura Clean
-- Aprendiendo Optimizacion y Seguridad en Backend
-
----
-
-## 💻 Proyectos destacados
-
-- [Galería digital interactiva](https://github.com/JeanPitillo/galeria-bgoo) – Backend con FastAPI + Frontend en React
-- [Carrito de compras React](https://github.com/JeanPitillo/carrito-react) – Estado global y animaciones con Framer Motion
-- [Ejercicios de estructuras de datos](https://github.com/JeanPitillo/estructuras-datos) – Árboles binarios, AVL, B-Trees, Heaps
+- Project of galery for clothes businesses
+- Learning coding design patterns and architecture
+- Learning optimization by caching and efficient algorithms
 
 ---
 
-## 📫 Contáctame
+## 💻 Featured projects
+
+- [Galería digital interactiva](https://github.com/JeanPitillo/galeria-bgoo) – Backend with FastAPI + Frontend in Nextjs
+Coming soon..
+
+---
+
+## 📫 Contact me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abel-chocca-060a31379/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abelchocca1010@gmail.com)
