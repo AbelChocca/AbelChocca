@@ -1,6 +1,6 @@
 # 😎 Hello, I'm Abel Chocca
 
-🚀 Backend & Fullstack Developer | FastAPI | Nextjs | Docker |
+🚀 Backend & Fullstack Developer | FastAPI | GraphQL | Nextjs | Docker |
 
 ---
 
@@ -37,7 +37,7 @@
 
 ## 💻 Featured projects
 
-- Orders Panel API - Backend with FastAPI and GraphQL, using Kafka and some services as infraestructure.
+- [Orders Panel API](https://github.com/AbelChocca/OrderPanel-API) - Backend with FastAPI and GraphQL, using Kafka and some services as infraestructure.
 - Digital Interactive Galery – Backend with FastAPI + Frontend in Nextjs
 Coming soon..
 
