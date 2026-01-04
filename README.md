@@ -37,7 +37,8 @@
 
 ## 💻 Featured projects
 
-- [Galería digital interactiva](https://github.com/JeanPitillo/galeria-bgoo) – Backend with FastAPI + Frontend in Nextjs
+- Orders Panel API - Backend with FastAPI and GraphQL, using Kafka and some services as infraestructure.
+- Digital Interactive Galery – Backend with FastAPI + Frontend in Nextjs
 Coming soon..
 
 ---
