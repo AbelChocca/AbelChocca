@@ -36,8 +36,7 @@
 ---
 
 ## 💻 Featured projects
-- Digital Interactive Galery – Backend with FastAPI + Frontend in Nextjs
-Coming soon..
+- Chocca Catalogue App - [Read more here](https://github.com/AbelChocca/Galeria-Chocca-Readme)
 
 ---
 
@@ -45,5 +44,4 @@ Coming soon..
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abel-chocca-060a31379/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abelchocca1010@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AbelChocca)
 
